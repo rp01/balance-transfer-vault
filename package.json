@@ -33,6 +33,6 @@
     "fabric-sdk-kvs-vault": "^0.1.0",
     "fs-extra": "^2.0.0",
     "jsonwebtoken": "^7.3.0",
-    "log4js": "^0.6.38"
+    "log4js": "^6.4.0"
   }
 }
